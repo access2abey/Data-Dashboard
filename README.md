@@ -27,8 +27,8 @@ The web app has a back-end and front-end. To run the app from the workspace, ope
 
 You can open a new browser window and go to the address: http://WORKSPACESPACEID-3001.WORKSPACEDOMAIN replacing WORKSPACEID and WORKSPACEDOMAIN with your values.
 ## Results
-A data dashboard is created and deployed. Checkout the main results [here.](https://github.com/A-Nuru/Data-Dashboard/blob/master/Data-Dashboard.ipynb)
+A data dashboard is created and deployed. Checkout the codes [here.](https://github.com/A-Nuru/Data-Dashboard/tree/master/web_app)
 
 ## Licensing
-The license of this project can be found [here.](https://github.com/A-Nuru/Data-Dashboard/blob/master/LICENSE)
+The license of this project can be found [here.](https://github.com/A-Nuru/Data-Dashboard/blob/master/LICENSE.txt)
 
