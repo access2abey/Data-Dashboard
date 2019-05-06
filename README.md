@@ -2,12 +2,12 @@
 
 
 ## Table of Contents
-1. [Installation](https://github.com/A-Nuru/Image-Classifier#Installation)
-2. [Project Motivation](https://github.com/A-Nuru/Image-Classifier#Project-Motivation)
-3. [File Descriptions](https://github.com/A-Nuru/Image-Classifier#File-Descriptions)
-4. [Instructions](https://github.com/A-Nuru/Image-Classifier#Instructions)
-5. [Results](https://github.com/A-Nuru/Image-Classifier#Results)
-6. [Licensing](https://github.com/A-Nuru/Image-Classifier#Licensing)
+1. [Installation](https://github.com/A-Nuru/Data-Dashboard#Installation)
+2. [Project Motivation](https://github.com/A-Nuru/Data-Dashboard#Project-Motivation)
+3. [File Descriptions](https://github.com/A-Nuru/Data-Dashboard#File-Descriptions)
+4. [Instructions](https://github.com/A-Nuru/Data-Dashboard#Instructions)
+5. [Results](https://github.com/A-Nuru/Data-Dashboard#Results)
+6. [Licensing](https://github.com/A-Nuru/Data-Dashboard#Licensing)
 
 ## Installation
 The libraries employed in this project to run the code are Anaconda distribution of Python 3.*, Numpy, Pandas for cleaning, Bootstrap for styling, Plotly for both front end (JS version) and back end (Python version) visualizations, Flask to take care of the routing and Heroku to deploy the web app.
@@ -27,8 +27,8 @@ The web app has a back-end and front-end. To run the app from the workspace, ope
 
 You can open a new browser window and go to the address: http://WORKSPACESPACEID-3001.WORKSPACEDOMAIN replacing WORKSPACEID and WORKSPACEDOMAIN with your values.
 ## Results
-A data dashboard is created and deployed. Checkout the main results [here.](https://github.com/A-Nuru/Image-Classifier/blob/master/Image%20Classifier%20Project.ipynb)
+A data dashboard is created and deployed. Checkout the main results [here.](https://github.com/A-Nuru/Data-Dashboard/blob/master/Data-Dashboard.ipynb)
 
 ## Licensing
-The license of this project can be found [here.](https://github.com/A-Nuru/Image-Classifier/blob/master/LICENSE)
+The license of this project can be found [here.](https://github.com/A-Nuru/Data-Dashboard/blob/master/LICENSE)
 
