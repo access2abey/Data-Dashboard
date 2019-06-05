@@ -12,7 +12,7 @@
 ## Installation
 The libraries employed in this project to run the code are Anaconda distribution of Python 3.*, Numpy, Pandas for cleaning, Bootstrap for styling, Plotly for both front end (JS version) and back end (Python version) visualizations, Flask to take care of the routing and Heroku to deploy the web app.
 ## Project Motivation
-This project is aimed at deploying a Data Dashboard involving writing Python code that reads in data, cleans the data, and then uses the data to make Plotly visualizations
+This project is aimed at developing a Data Dashboard involving writing Python code that reads in data, cleans the data, and then uses the data to make Plotly visualizations
 
 ## File Descriptions
 The files associated with this work  are contained in the web_app folder which includes
